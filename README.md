@@ -99,3 +99,4 @@ Repository owner: Eyup Ensar Demirel. Teammate: Rana Betül Karahan.
 The Java starter code was prepared with AI assistance and is also used in Rana's repository.
 Both students still need to run the app locally, understand the code, add their
 own screenshots, and complete real reciprocal pull requests.
+<img width="1730" height="967" alt="image" src="https://github.com/user-attachments/assets/b7bd4424-d1fa-48e2-9c6a-a9a440950761" />
